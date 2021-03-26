@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Pounds_to_Kilogram_and_Vice_versa
+namespace stats
 {
     static class Program
     {
