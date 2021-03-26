@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\Pounds to Kilogram and Vice-versa\Pounds to Kilogram and Vice-versa\obj\Debug\Pounds to Kilogram and Vice-versa.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Pounds to Kilogram and Vice-versa\Pounds to Kilogram and Vice-versa\obj\Debug\Pounds_to_Kilogram_and_Vice_versa.Form1.resources
+C:\Users\lenovo\source\repos\Pounds to Kilogram and Vice-versa\Pounds to Kilogram and Vice-versa\obj\Debug\Pounds_to_Kilogram_and_Vice_versa.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Pounds to Kilogram and Vice-versa\Pounds to Kilogram and Vice-versa\obj\Debug\Pounds to Kilogram and Vice-versa.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Pounds to Kilogram and Vice-versa\Pounds to Kilogram and Vice-versa\obj\Debug\Pounds to Kilogram and Vice-versa.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Pounds to Kilogram and Vice-versa\Pounds to Kilogram and Vice-versa\bin\Debug\Pounds to Kilogram and Vice-versa.exe.config
+C:\Users\lenovo\source\repos\Pounds to Kilogram and Vice-versa\Pounds to Kilogram and Vice-versa\bin\Debug\Pounds to Kilogram and Vice-versa.exe
+C:\Users\lenovo\source\repos\Pounds to Kilogram and Vice-versa\Pounds to Kilogram and Vice-versa\bin\Debug\Pounds to Kilogram and Vice-versa.pdb
+C:\Users\lenovo\source\repos\Pounds to Kilogram and Vice-versa\Pounds to Kilogram and Vice-versa\obj\Debug\Pounds to Kilogram and Vice-versa.exe
+C:\Users\lenovo\source\repos\Pounds to Kilogram and Vice-versa\Pounds to Kilogram and Vice-versa\obj\Debug\Pounds to Kilogram and Vice-versa.pdb
+C:\Users\Chigo\Desktop\Emmah's CEN414 Ass\Task 1--Pounds to Kilogram\Pounds to Kilogram and Vice-versa\obj\Debug\Pounds to Kilogram and Vice-versa.csprojAssemblyReference.cache
+C:\Users\Chigo\Desktop\Emmah's CEN414 Ass\Task 1--Pounds to Kilogram\Pounds to Kilogram and Vice-versa\obj\Debug\Pounds_to_Kilogram_and_Vice_versa.Form1.resources
+C:\Users\Chigo\Desktop\Emmah's CEN414 Ass\Task 1--Pounds to Kilogram\Pounds to Kilogram and Vice-versa\obj\Debug\Pounds_to_Kilogram_and_Vice_versa.Properties.Resources.resources
+C:\Users\Chigo\Desktop\Emmah's CEN414 Ass\Task 1--Pounds to Kilogram\Pounds to Kilogram and Vice-versa\obj\Debug\Pounds to Kilogram and Vice-versa.csproj.GenerateResource.cache
+C:\Users\Chigo\Desktop\Emmah's CEN414 Ass\Task 1--Pounds to Kilogram\Pounds to Kilogram and Vice-versa\obj\Debug\Pounds to Kilogram and Vice-versa.csproj.CoreCompileInputs.cache
+C:\Users\Chigo\Desktop\Emmah's CEN414 Ass\Task 1--Pounds to Kilogram\Pounds to Kilogram and Vice-versa\obj\Debug\Pounds to Kilogram and Vice-versa.exe
+C:\Users\Chigo\Desktop\Emmah's CEN414 Ass\Task 1--Pounds to Kilogram\Pounds to Kilogram and Vice-versa\obj\Debug\Pounds to Kilogram and Vice-versa.pdb
